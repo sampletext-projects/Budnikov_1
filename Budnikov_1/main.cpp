@@ -7,8 +7,8 @@ int main()
 {
 	setlocale(LC_ALL, "russian");
 	int a = 0;
-	int a2 = 1;
-	int a3 = 1;
+	int a2 = 0;
+	int a3 = 0;
 
 	cout << "Таблица кубов чисел a от 1 до 10\n";
 	
